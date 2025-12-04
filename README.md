@@ -7,7 +7,7 @@
 Автоматизированное тестирование REST API с коллекциями Postman, валидацией схем и CI/CD.
 # [Test Design (примеры)](https://github.com/timsalikhov/test-design-examples)
 Практическое применение техник тест-дизайна: граничные значения, классы эквивалентности, таблицы решений.
-# [SQL](https://github.com/timsalikhov/sql-qa)
+# [SQL](https://github.com/timsalikhov-qa/sql.git)
 SQL-запросы для проверки данных в БД, поиска дубликатов и анализа целостности.
 
 # Технические навыки:
