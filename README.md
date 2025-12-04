@@ -1,8 +1,6 @@
 # Тимур Салихов
 **Привет! Я QA Engineer с опытом ручного тестирования. Это портфолио демонстрирует мои практические навыки.**
 
-# Мои демо проекты:
-
 # [Web Testing Project](https://github.com/timsalikhov/web-testing-project)
 Полный цикл тестирования веб-приложения OrangeHRM: тест-планы, чек-листы, тест-кейсы, баг-репорты.
 # [API Testing with Postman](https://github.com/timsalikhov/api-testing-postman)  
